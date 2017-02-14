@@ -15,6 +15,9 @@
   > _"62% of the urban population in Africa lives in slums compared with 42% in South Asia and 22% in Latin America and the Caribbean"_
 
 
-
+#####Priority Order of Design  
+######_describes the order for which design takes precedence depending on time constraints._
+ * Functionality "high"
+ * Aethetics "Average"
 
 ####Ramdom Occassional Thoughts
