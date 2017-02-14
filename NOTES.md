@@ -17,6 +17,18 @@
 
 * How can rural africa inform urban africa?  
  [How Combining Traditional Asian and African Design Could Minimize Diseases in Rural Tanzania](http://www.archdaily.com/796540/how-combining-traditional-asian-and-african-design-could-minimize-diseases-in-rural-tanzania)
+ 
+###[Wiki House](https://github.com/wikihouseproject/Wren/wiki/Wren-Technical-Design-Guide) Open Source Construction Technique
+ 
+####advantages:
+  * Eco- friendly 
+  * Light weight
+  * Sustainable material = low construction cost requirement.
+  * Quick installation and/or de-installation (It just feels good to know we can have a house in a 21st century tech capability era, i.e 1 day). 
+  * Economic value = base material is plywood, can be made from wood or bamboo(most prefered because of it rapid growth) which are also available locally. 
+  * Community investment can go into the acquisition of CNC cutters/Laser Cutters/3d printers and other accessories and creating local cutting shops centers.
+  * Design easy to replicate.  
+  
 
 
 #####Priority Order of Design  
