@@ -2,7 +2,7 @@
 Design of the The 5000 For 5000 Home Competition promoted by shelter afrique.
 
 ## Design Brief
-![](WikiCasa-Shelter-Afrik-5k-4-5k-homes/Ideas bank/Screenshot from 2017-02-10 02-22-41.png)
+![](WikiCasa-Shelter-Afrik-5k-4-5k-homes/Ideas bank/Screenshot from 2017-02-10 02-25-08.png)
 
 
 The proposed design is for a 1 bedroom dwelling unit with a foot print of approximately 45 square meters.
