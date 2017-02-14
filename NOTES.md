@@ -2,6 +2,7 @@
 
 ####Spacial Appreciation
  * Looking at various 45sqm area size layouts
+ ![Potential sizes]
  
 ####Things to think about but optional
  * adding african art in expression of building
