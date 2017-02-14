@@ -2,7 +2,8 @@
 
 ####Spacial Appreciation
  * Looking at various 45sqm area size layouts
- ![Potential sizes]
+ 
+![Potential sizes](WikiCasa-Shelter-Afrik-5k-4-5k-homes/Screenshot/Screenshot from 2017-02-14 00-01-06.png)
  
 ####Things to think about but optional
  * adding african art in expression of building
