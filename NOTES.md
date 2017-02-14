@@ -15,7 +15,7 @@
  
   > _"62% of the urban population in Africa lives in slums compared with 42% in South Asia and 22% in Latin America and the Caribbean"_
 
-* What can rural africa inform urban africa?
+* How can rural africa inform urban africa?  
  [How Combining Traditional Asian and African Design Could Minimize Diseases in Rural Tanzania](http://www.archdaily.com/796540/how-combining-traditional-asian-and-african-design-could-minimize-diseases-in-rural-tanzania)
 
 
