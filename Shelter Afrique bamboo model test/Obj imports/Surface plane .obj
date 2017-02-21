@@ -1,0 +1,12 @@
+# Blender v2.78 (sub 0) OBJ File: 'model 01.blend'
+# www.blender.org
+mtllib Surface plane .mtl
+o Plane.067_Plane.076
+v -3010.427734 -3747.637695 0.000000
+v 3000.000000 -3747.637695 0.000000
+v -3010.427734 3750.000000 0.000000
+v 3000.000000 3750.000000 0.000000
+vn 0.0000 0.0000 1.0000
+usemtl None
+s off
+f 1//1 2//1 4//1 3//1
